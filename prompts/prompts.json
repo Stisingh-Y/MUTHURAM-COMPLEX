@@ -1,0 +1,960 @@
+{
+  "meta": {
+    "generatedAt": "2026-10-02T17:45:31.566Z",
+    "store": "MUTHURAM COMPLEX",
+    "masterStyle": "Professional e-commerce product photograph shot on a Canon EOS R5, 85mm f/2.8 lens. Single product centered on a dark charcoal seamless backdrop (#111214), large softbox key light from the upper left, subtle warm orange rim light (#FF5A1F) from behind, soft natural floor reflection, realistic material texture (leather grain, double stitching, fabric weave, carbon fibre, rubber, metal buckles), tiny natural imperfections, subtle film grain, tack-sharp focus, accurate real-world proportions, 4:5 aspect ratio, 1600x2000 px.",
+    "masterNegative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers.",
+    "counts": {
+      "totalImages": 121,
+      "hero": 1,
+      "categories": 8,
+      "brands": 16,
+      "products": 96
+    }
+  },
+  "images": [
+    {
+      "file": "/images/hero/hero-bike.webp",
+      "aspect": "16:9",
+      "category": "Hero",
+      "prompt": "Matte black superbike with a rider in black leather and a mirrored visor helmet, low front three-quarter angle, bike on the RIGHT, clean dark empty space on the LEFT, moody low-key lighting, 16:9, 1920x1080.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/categories/helmets.webp",
+      "aspect": "4:5",
+      "category": "Helmets",
+      "prompt": "Hero still of helmets riding gear centered on a dark charcoal seamless backdrop (#111214), softbox key light, subtle warm orange rim light. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/categories/jackets.webp",
+      "aspect": "4:5",
+      "category": "Jackets",
+      "prompt": "Hero still of jackets riding gear centered on a dark charcoal seamless backdrop (#111214), softbox key light, subtle warm orange rim light. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/categories/gloves.webp",
+      "aspect": "4:5",
+      "category": "Gloves",
+      "prompt": "Hero still of gloves riding gear centered on a dark charcoal seamless backdrop (#111214), softbox key light, subtle warm orange rim light. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/categories/boots.webp",
+      "aspect": "4:5",
+      "category": "Boots",
+      "prompt": "Hero still of boots riding gear centered on a dark charcoal seamless backdrop (#111214), softbox key light, subtle warm orange rim light. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/categories/riding-pants.webp",
+      "aspect": "4:5",
+      "category": "Riding Pants",
+      "prompt": "Hero still of riding pants riding gear centered on a dark charcoal seamless backdrop (#111214), softbox key light, subtle warm orange rim light. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/categories/protection.webp",
+      "aspect": "4:5",
+      "category": "Protection",
+      "prompt": "Hero still of protection riding gear centered on a dark charcoal seamless backdrop (#111214), softbox key light, subtle warm orange rim light. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/categories/touring.webp",
+      "aspect": "4:5",
+      "category": "Touring",
+      "prompt": "Hero still of touring riding gear centered on a dark charcoal seamless backdrop (#111214), softbox key light, subtle warm orange rim light. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/categories/accessories.webp",
+      "aspect": "4:5",
+      "category": "Accessories",
+      "prompt": "Hero still of accessories riding gear centered on a dark charcoal seamless backdrop (#111214), softbox key light, subtle warm orange rim light. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/vortex/banner.webp",
+      "aspect": "16:9",
+      "brand": "Vortex",
+      "prompt": "Brand banner for Vortex, dark photographic style showing generic premium motorcycle gear on dark seamless studio backdrop, subtle orange rim lighting, no text. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/vortex/tile.webp",
+      "aspect": "1:1",
+      "brand": "Vortex",
+      "prompt": "Square brand tile for Vortex, dark photographic studio plate with clean industrial lighting, 1:1 aspect ratio. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/strata/banner.webp",
+      "aspect": "16:9",
+      "brand": "Strata",
+      "prompt": "Brand banner for Strata, dark photographic style showing generic premium motorcycle gear on dark seamless studio backdrop, subtle orange rim lighting, no text. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/strata/tile.webp",
+      "aspect": "1:1",
+      "brand": "Strata",
+      "prompt": "Square brand tile for Strata, dark photographic studio plate with clean industrial lighting, 1:1 aspect ratio. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/apexline/banner.webp",
+      "aspect": "16:9",
+      "brand": "Apexline",
+      "prompt": "Brand banner for Apexline, dark photographic style showing generic premium motorcycle gear on dark seamless studio backdrop, subtle orange rim lighting, no text. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/apexline/tile.webp",
+      "aspect": "1:1",
+      "brand": "Apexline",
+      "prompt": "Square brand tile for Apexline, dark photographic studio plate with clean industrial lighting, 1:1 aspect ratio. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/trailforge/banner.webp",
+      "aspect": "16:9",
+      "brand": "Trailforge",
+      "prompt": "Brand banner for Trailforge, dark photographic style showing generic premium motorcycle gear on dark seamless studio backdrop, subtle orange rim lighting, no text. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/trailforge/tile.webp",
+      "aspect": "1:1",
+      "brand": "Trailforge",
+      "prompt": "Square brand tile for Trailforge, dark photographic studio plate with clean industrial lighting, 1:1 aspect ratio. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/ironhaus/banner.webp",
+      "aspect": "16:9",
+      "brand": "Ironhaus",
+      "prompt": "Brand banner for Ironhaus, dark photographic style showing generic premium motorcycle gear on dark seamless studio backdrop, subtle orange rim lighting, no text. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/ironhaus/tile.webp",
+      "aspect": "1:1",
+      "brand": "Ironhaus",
+      "prompt": "Square brand tile for Ironhaus, dark photographic studio plate with clean industrial lighting, 1:1 aspect ratio. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/nimbus/banner.webp",
+      "aspect": "16:9",
+      "brand": "Nimbus",
+      "prompt": "Brand banner for Nimbus, dark photographic style showing generic premium motorcycle gear on dark seamless studio backdrop, subtle orange rim lighting, no text. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/nimbus/tile.webp",
+      "aspect": "1:1",
+      "brand": "Nimbus",
+      "prompt": "Square brand tile for Nimbus, dark photographic studio plate with clean industrial lighting, 1:1 aspect ratio. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/driftline/banner.webp",
+      "aspect": "16:9",
+      "brand": "Driftline",
+      "prompt": "Brand banner for Driftline, dark photographic style showing generic premium motorcycle gear on dark seamless studio backdrop, subtle orange rim lighting, no text. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/driftline/tile.webp",
+      "aspect": "1:1",
+      "brand": "Driftline",
+      "prompt": "Square brand tile for Driftline, dark photographic studio plate with clean industrial lighting, 1:1 aspect ratio. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/meridian/banner.webp",
+      "aspect": "16:9",
+      "brand": "Meridian",
+      "prompt": "Brand banner for Meridian, dark photographic style showing generic premium motorcycle gear on dark seamless studio backdrop, subtle orange rim lighting, no text. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/brands/meridian/tile.webp",
+      "aspect": "1:1",
+      "brand": "Meridian",
+      "prompt": "Square brand tile for Meridian, dark photographic studio plate with clean industrial lighting, 1:1 aspect ratio. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/vortex-r9-modular-helmet/main.webp",
+      "product": "Vortex R9 Modular Helmet",
+      "slug": "vortex-r9-modular-helmet",
+      "angle": "main (3/4 front view)",
+      "prompt": "Vortex R9 Modular Helmet (Stealth Black, Signal Orange, Gunmetal), front three-quarter view, ECE 22.06 modular helmet with a flip-up chin bar and Pinlock-ready visor.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/vortex-r9-modular-helmet/detail.webp",
+      "product": "Vortex R9 Modular Helmet",
+      "slug": "vortex-r9-modular-helmet",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Vortex R9 Modular Helmet. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/vortex-r9-modular-helmet/angle.webp",
+      "product": "Vortex R9 Modular Helmet",
+      "slug": "vortex-r9-modular-helmet",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Vortex R9 Modular Helmet, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/vortex-r5-full-face-helmet/main.webp",
+      "product": "Vortex R5 Full-Face Helmet",
+      "slug": "vortex-r5-full-face-helmet",
+      "angle": "main (3/4 front view)",
+      "prompt": "Vortex R5 Full-Face Helmet (Stealth Black, Pearl White, Racing Red), front three-quarter view, A light full-face helmet for daily commuting and spirited weekend rides.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/vortex-r5-full-face-helmet/detail.webp",
+      "product": "Vortex R5 Full-Face Helmet",
+      "slug": "vortex-r5-full-face-helmet",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Vortex R5 Full-Face Helmet. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/vortex-r5-full-face-helmet/angle.webp",
+      "product": "Vortex R5 Full-Face Helmet",
+      "slug": "vortex-r5-full-face-helmet",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Vortex R5 Full-Face Helmet, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/meridian-atelier-no-1-helmet/main.webp",
+      "product": "Meridian Atelier No.1 Helmet",
+      "slug": "meridian-atelier-no-1-helmet",
+      "angle": "main (3/4 front view)",
+      "prompt": "Meridian Atelier No.1 Helmet (Deep Graphite, Bone), front three-quarter view, Numbered, hand-finished carbon shell from our premium atelier line.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/meridian-atelier-no-1-helmet/detail.webp",
+      "product": "Meridian Atelier No.1 Helmet",
+      "slug": "meridian-atelier-no-1-helmet",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Meridian Atelier No.1 Helmet. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/meridian-atelier-no-1-helmet/angle.webp",
+      "product": "Meridian Atelier No.1 Helmet",
+      "slug": "meridian-atelier-no-1-helmet",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Meridian Atelier No.1 Helmet, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/vortex-trail-adventure-helmet/main.webp",
+      "product": "Vortex Trail ADventure Helmet",
+      "slug": "vortex-trail-adventure-helmet",
+      "angle": "main (3/4 front view)",
+      "prompt": "Vortex Trail ADventure Helmet (Sand, Stealth Black), front three-quarter view, Dual-visor adventure helmet with a peak and removable chin curtain.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/vortex-trail-adventure-helmet/detail.webp",
+      "product": "Vortex Trail ADventure Helmet",
+      "slug": "vortex-trail-adventure-helmet",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Vortex Trail ADventure Helmet. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/vortex-trail-adventure-helmet/angle.webp",
+      "product": "Vortex Trail ADventure Helmet",
+      "slug": "vortex-trail-adventure-helmet",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Vortex Trail ADventure Helmet, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-stormguard-waterproof-jacket/main.webp",
+      "product": "Strata Stormguard Waterproof Jacket",
+      "slug": "strata-stormguard-waterproof-jacket",
+      "angle": "main (3/4 front view)",
+      "prompt": "Strata Stormguard Waterproof Jacket (Signal Orange, Stealth Black, Storm Grey), front three-quarter view, Three-layer waterproof touring jacket with a removable liner.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-stormguard-waterproof-jacket/detail.webp",
+      "product": "Strata Stormguard Waterproof Jacket",
+      "slug": "strata-stormguard-waterproof-jacket",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Strata Stormguard Waterproof Jacket. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-stormguard-waterproof-jacket/angle.webp",
+      "product": "Strata Stormguard Waterproof Jacket",
+      "slug": "strata-stormguard-waterproof-jacket",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Strata Stormguard Waterproof Jacket, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-vantage-airflow-mesh-jacket/main.webp",
+      "product": "Strata Vantage Airflow Mesh Jacket",
+      "slug": "strata-vantage-airflow-mesh-jacket",
+      "angle": "main (3/4 front view)",
+      "prompt": "Strata Vantage Airflow Mesh Jacket (Stealth Black, Racing Red, Electric Blue), front three-quarter view, Summers in Chennai deserve a real mesh jacket. CE Level 2 armour included.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-vantage-airflow-mesh-jacket/detail.webp",
+      "product": "Strata Vantage Airflow Mesh Jacket",
+      "slug": "strata-vantage-airflow-mesh-jacket",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Strata Vantage Airflow Mesh Jacket. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-vantage-airflow-mesh-jacket/angle.webp",
+      "product": "Strata Vantage Airflow Mesh Jacket",
+      "slug": "strata-vantage-airflow-mesh-jacket",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Strata Vantage Airflow Mesh Jacket, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-nimbus-rain-shell/main.webp",
+      "product": "Strata Nimbus Rain Shell",
+      "slug": "strata-nimbus-rain-shell",
+      "angle": "main (3/4 front view)",
+      "prompt": "Strata Nimbus Rain Shell (Acid Lime, Stealth Black), front three-quarter view, A packable waterproof shell that fits in a tank bag. Nothing more, nothing less.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-nimbus-rain-shell/detail.webp",
+      "product": "Strata Nimbus Rain Shell",
+      "slug": "strata-nimbus-rain-shell",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Strata Nimbus Rain Shell. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-nimbus-rain-shell/angle.webp",
+      "product": "Strata Nimbus Rain Shell",
+      "slug": "strata-nimbus-rain-shell",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Strata Nimbus Rain Shell, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-torch-heated-jacket/main.webp",
+      "product": "Strata Torch Heated Jacket",
+      "slug": "strata-torch-heated-jacket",
+      "angle": "main (3/4 front view)",
+      "prompt": "Strata Torch Heated Jacket (Stealth Black, Graphite Grey), front three-quarter view, Three-zone carbon-fibre heating with a 12-hour rechargeable battery.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-torch-heated-jacket/detail.webp",
+      "product": "Strata Torch Heated Jacket",
+      "slug": "strata-torch-heated-jacket",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Strata Torch Heated Jacket. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-torch-heated-jacket/angle.webp",
+      "product": "Strata Torch Heated Jacket",
+      "slug": "strata-torch-heated-jacket",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Strata Torch Heated Jacket, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-talon-sport-gloves/main.webp",
+      "product": "Apexline Talon Sport Gloves",
+      "slug": "apexline-talon-sport-gloves",
+      "angle": "main (3/4 front view)",
+      "prompt": "Apexline Talon Sport Gloves (Racing Red, Stealth Black), front three-quarter view, Pre-curved full-finger race gloves with bonded palm seams.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-talon-sport-gloves/detail.webp",
+      "product": "Apexline Talon Sport Gloves",
+      "slug": "apexline-talon-sport-gloves",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Apexline Talon Sport Gloves. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-talon-sport-gloves/angle.webp",
+      "product": "Apexline Talon Sport Gloves",
+      "slug": "apexline-talon-sport-gloves",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Apexline Talon Sport Gloves, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-drygrip-summer-gloves/main.webp",
+      "product": "Apexline Drygrip Summer Gloves",
+      "slug": "apexline-drygrip-summer-gloves",
+      "angle": "main (3/4 front view)",
+      "prompt": "Apexline Drygrip Summer Gloves (Stealth Black, Bone, Sand), front three-quarter view, Full-finger summer gloves with a perforated leather and silicone grip palm.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-drygrip-summer-gloves/detail.webp",
+      "product": "Apexline Drygrip Summer Gloves",
+      "slug": "apexline-drygrip-summer-gloves",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Apexline Drygrip Summer Gloves. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-drygrip-summer-gloves/angle.webp",
+      "product": "Apexline Drygrip Summer Gloves",
+      "slug": "apexline-drygrip-summer-gloves",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Apexline Drygrip Summer Gloves, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-vantage-heated-gloves/main.webp",
+      "product": "Apexline Vantage Heated Gloves",
+      "slug": "apexline-vantage-heated-gloves",
+      "angle": "main (3/4 front view)",
+      "prompt": "Apexline Vantage Heated Gloves (Stealth Black), front three-quarter view, Carbon-fibre heated gloves with a weatherproof shell and knuckle armour.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-vantage-heated-gloves/detail.webp",
+      "product": "Apexline Vantage Heated Gloves",
+      "slug": "apexline-vantage-heated-gloves",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Apexline Vantage Heated Gloves. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-vantage-heated-gloves/angle.webp",
+      "product": "Apexline Vantage Heated Gloves",
+      "slug": "apexline-vantage-heated-gloves",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Apexline Vantage Heated Gloves, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-ridge-off-road-gloves/main.webp",
+      "product": "Apexline Ridge Off-Road Gloves",
+      "slug": "apexline-ridge-off-road-gloves",
+      "angle": "main (3/4 front view)",
+      "prompt": "Apexline Ridge Off-Road Gloves (Stealth Black, Racing Red), front three-quarter view, Single-layer off-road gloves with knuckle armour and grippy palms.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-ridge-off-road-gloves/detail.webp",
+      "product": "Apexline Ridge Off-Road Gloves",
+      "slug": "apexline-ridge-off-road-gloves",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Apexline Ridge Off-Road Gloves. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/apexline-ridge-off-road-gloves/angle.webp",
+      "product": "Apexline Ridge Off-Road Gloves",
+      "slug": "apexline-ridge-off-road-gloves",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Apexline Ridge Off-Road Gloves, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-voyager-tall-boot/main.webp",
+      "product": "Trailforge Voyager Tall Boot",
+      "slug": "trailforge-voyager-tall-boot",
+      "angle": "main (3/4 front view)",
+      "prompt": "Trailforge Voyager Tall Boot (Stealth Black, Storm Grey), front three-quarter view, Knee-high touring boot with a waterproof membrane and heat-reflective lining.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-voyager-tall-boot/detail.webp",
+      "product": "Trailforge Voyager Tall Boot",
+      "slug": "trailforge-voyager-tall-boot",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Trailforge Voyager Tall Boot. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-voyager-tall-boot/angle.webp",
+      "product": "Trailforge Voyager Tall Boot",
+      "slug": "trailforge-voyager-tall-boot",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Trailforge Voyager Tall Boot, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-ridgeline-adventure-boot/main.webp",
+      "product": "Trailforge Ridgeline Adventure Boot",
+      "slug": "trailforge-ridgeline-adventure-boot",
+      "angle": "main (3/4 front view)",
+      "prompt": "Trailforge Ridgeline Adventure Boot (Sand, Stealth Black), front three-quarter view, Gore-Tex adventure boots with a switchable sole for walking and riding.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-ridgeline-adventure-boot/detail.webp",
+      "product": "Trailforge Ridgeline Adventure Boot",
+      "slug": "trailforge-ridgeline-adventure-boot",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Trailforge Ridgeline Adventure Boot. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-ridgeline-adventure-boot/angle.webp",
+      "product": "Trailforge Ridgeline Adventure Boot",
+      "slug": "trailforge-ridgeline-adventure-boot",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Trailforge Ridgeline Adventure Boot, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-street-ankle-boot/main.webp",
+      "product": "Trailforge Street Ankle Boot",
+      "slug": "trailforge-street-ankle-boot",
+      "angle": "main (3/4 front view)",
+      "prompt": "Trailforge Street Ankle Boot (Stealth Black, Storm Grey), front three-quarter view, Casual ankle boots that still pass an impact test.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-street-ankle-boot/detail.webp",
+      "product": "Trailforge Street Ankle Boot",
+      "slug": "trailforge-street-ankle-boot",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Trailforge Street Ankle Boot. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-street-ankle-boot/angle.webp",
+      "product": "Trailforge Street Ankle Boot",
+      "slug": "trailforge-street-ankle-boot",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Trailforge Street Ankle Boot, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-shift-race-boot/main.webp",
+      "product": "Trailforge Shift Race Boot",
+      "slug": "trailforge-shift-race-boot",
+      "angle": "main (3/4 front view)",
+      "prompt": "Trailforge Shift Race Boot (Racing Red, Stealth Black), front three-quarter view, Featherweight race boot with a slick, grippy sole for footpeg feel.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-shift-race-boot/detail.webp",
+      "product": "Trailforge Shift Race Boot",
+      "slug": "trailforge-shift-race-boot",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Trailforge Shift Race Boot. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-shift-race-boot/angle.webp",
+      "product": "Trailforge Shift Race Boot",
+      "slug": "trailforge-shift-race-boot",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Trailforge Shift Race Boot, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-ridge-textile-riding-pants/main.webp",
+      "product": "Strata Ridge Textile Riding Pants",
+      "slug": "strata-ridge-textile-riding-pants",
+      "angle": "main (3/4 front view)",
+      "prompt": "Strata Ridge Textile Riding Pants (Stealth Black, Storm Grey), front three-quarter view, Reinforced textile trousers with CE Level 2 knee armour.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-ridge-textile-riding-pants/detail.webp",
+      "product": "Strata Ridge Textile Riding Pants",
+      "slug": "strata-ridge-textile-riding-pants",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Strata Ridge Textile Riding Pants. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-ridge-textile-riding-pants/angle.webp",
+      "product": "Strata Ridge Textile Riding Pants",
+      "slug": "strata-ridge-textile-riding-pants",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Strata Ridge Textile Riding Pants, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-monsoon-waterproof-pants/main.webp",
+      "product": "Strata Monsoon Waterproof Pants",
+      "slug": "strata-monsoon-waterproof-pants",
+      "angle": "main (3/4 front view)",
+      "prompt": "Strata Monsoon Waterproof Pants (Acid Lime, Stealth Black), front three-quarter view, Fully waterproof trousers with a drop-seat and over-the-boot cut.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-monsoon-waterproof-pants/detail.webp",
+      "product": "Strata Monsoon Waterproof Pants",
+      "slug": "strata-monsoon-waterproof-pants",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Strata Monsoon Waterproof Pants. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-monsoon-waterproof-pants/angle.webp",
+      "product": "Strata Monsoon Waterproof Pants",
+      "slug": "strata-monsoon-waterproof-pants",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Strata Monsoon Waterproof Pants, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-velocity-race-pants/main.webp",
+      "product": "Strata Velocity Race Pants",
+      "slug": "strata-velocity-race-pants",
+      "angle": "main (3/4 front view)",
+      "prompt": "Strata Velocity Race Pants (Racing Red, Stealth Black), front three-quarter view, One-piece-in-two-pieces race pants with a full-length two-way zip.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-velocity-race-pants/detail.webp",
+      "product": "Strata Velocity Race Pants",
+      "slug": "strata-velocity-race-pants",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Strata Velocity Race Pants. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-velocity-race-pants/angle.webp",
+      "product": "Strata Velocity Race Pants",
+      "slug": "strata-velocity-race-pants",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Strata Velocity Race Pants, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-base-layer-thermal-pants/main.webp",
+      "product": "Strata Base Layer Thermal Pants",
+      "slug": "strata-base-layer-thermal-pants",
+      "angle": "main (3/4 front view)",
+      "prompt": "Strata Base Layer Thermal Pants (Slate, Bone), front three-quarter view, Merino-blend thermal leggings that sit under leather without bulk.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-base-layer-thermal-pants/detail.webp",
+      "product": "Strata Base Layer Thermal Pants",
+      "slug": "strata-base-layer-thermal-pants",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Strata Base Layer Thermal Pants. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/strata-base-layer-thermal-pants/angle.webp",
+      "product": "Strata Base Layer Thermal Pants",
+      "slug": "strata-base-layer-thermal-pants",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Strata Base Layer Thermal Pants, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-vantage-back-protector/main.webp",
+      "product": "Ironhaus Vantage CE Level 2 Back Protector",
+      "slug": "ironhaus-vantage-back-protector",
+      "angle": "main (3/4 front view)",
+      "prompt": "Ironhaus Vantage CE Level 2 Back Protector (Graphite, Stealth Black), front three-quarter view, Multi-density back armour, CE Level 2 to EN 1621-2.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-vantage-back-protector/detail.webp",
+      "product": "Ironhaus Vantage CE Level 2 Back Protector",
+      "slug": "ironhaus-vantage-back-protector",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Ironhaus Vantage CE Level 2 Back Protector. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-vantage-back-protector/angle.webp",
+      "product": "Ironhaus Vantage CE Level 2 Back Protector",
+      "slug": "ironhaus-vantage-back-protector",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Ironhaus Vantage CE Level 2 Back Protector, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-chest-guard/main.webp",
+      "product": "Ironhaus Chest Guard",
+      "slug": "ironhaus-chest-guard",
+      "angle": "main (3/4 front view)",
+      "prompt": "Ironhaus Chest Guard (Graphite), front three-quarter view, CE Level 2 chest protection for airbag-compatible jackets.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-chest-guard/detail.webp",
+      "product": "Ironhaus Chest Guard",
+      "slug": "ironhaus-chest-guard",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Ironhaus Chest Guard. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-chest-guard/angle.webp",
+      "product": "Ironhaus Chest Guard",
+      "slug": "ironhaus-chest-guard",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Ironhaus Chest Guard, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-knee-slider-set/main.webp",
+      "product": "Ironhaus Knee Slider Set",
+      "slug": "ironhaus-knee-slider-set",
+      "angle": "main (3/4 front view)",
+      "prompt": "Ironhaus Knee Slider Set (Racing Red), front three-quarter view, Replaceable asymmetric knee sliders, one pair.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-knee-slider-set/detail.webp",
+      "product": "Ironhaus Knee Slider Set",
+      "slug": "ironhaus-knee-slider-set",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Ironhaus Knee Slider Set. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-knee-slider-set/angle.webp",
+      "product": "Ironhaus Knee Slider Set",
+      "slug": "ironhaus-knee-slider-set",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Ironhaus Knee Slider Set, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-elbow-shoulder-armour-set/main.webp",
+      "product": "Ironhaus Elbow and Shoulder Armour Set",
+      "slug": "ironhaus-elbow-shoulder-armour-set",
+      "angle": "main (3/4 front view)",
+      "prompt": "Ironhaus Elbow and Shoulder Armour Set (Stealth Black), front three-quarter view, Replacement CE Level 2 armour set for two elbows and two shoulders.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-elbow-shoulder-armour-set/detail.webp",
+      "product": "Ironhaus Elbow and Shoulder Armour Set",
+      "slug": "ironhaus-elbow-shoulder-armour-set",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Ironhaus Elbow and Shoulder Armour Set. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/ironhaus-elbow-shoulder-armour-set/angle.webp",
+      "product": "Ironhaus Elbow and Shoulder Armour Set",
+      "slug": "ironhaus-elbow-shoulder-armour-set",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Ironhaus Elbow and Shoulder Armour Set, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-voyager-panniers/main.webp",
+      "product": "Trailforge Voyager 40L Panniers",
+      "slug": "trailforge-voyager-panniers",
+      "angle": "main (3/4 front view)",
+      "prompt": "Trailforge Voyager 40L Panniers (Stealth Black, Storm Grey), front three-quarter view, Sealed 40-litre pannier pair on a universal 4-point rack mount.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-voyager-panniers/detail.webp",
+      "product": "Trailforge Voyager 40L Panniers",
+      "slug": "trailforge-voyager-panniers",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Trailforge Voyager 40L Panniers. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-voyager-panniers/angle.webp",
+      "product": "Trailforge Voyager 40L Panniers",
+      "slug": "trailforge-voyager-panniers",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Trailforge Voyager 40L Panniers, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-bellows-tank-bag/main.webp",
+      "product": "Driftline Bellows Tank Bag",
+      "slug": "driftline-bellows-tank-bag",
+      "angle": "main (3/4 front view)",
+      "prompt": "Driftline Bellows Tank Bag (Stealth Black, Camel), front three-quarter view, Expanding tank bag with a magnetic mount and a clear-screen pocket.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-bellows-tank-bag/detail.webp",
+      "product": "Driftline Bellows Tank Bag",
+      "slug": "driftline-bellows-tank-bag",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Driftline Bellows Tank Bag. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-bellows-tank-bag/angle.webp",
+      "product": "Driftline Bellows Tank Bag",
+      "slug": "driftline-bellows-tank-bag",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Driftline Bellows Tank Bag, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-hydration-reservoir/main.webp",
+      "product": "Trailforge Hydration Reservoir 3L",
+      "slug": "trailforge-hydration-reservoir",
+      "angle": "main (3/4 front view)",
+      "prompt": "Trailforge Hydration Reservoir 3L (Clear Smoke), front three-quarter view, A 3-litre quick-disconnect reservoir with a bite valve.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-hydration-reservoir/detail.webp",
+      "product": "Trailforge Hydration Reservoir 3L",
+      "slug": "trailforge-hydration-reservoir",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Trailforge Hydration Reservoir 3L. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-hydration-reservoir/angle.webp",
+      "product": "Trailforge Hydration Reservoir 3L",
+      "slug": "trailforge-hydration-reservoir",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Trailforge Hydration Reservoir 3L, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-handlebar-roll-bag/main.webp",
+      "product": "Trailforge Handlebar Roll Bag",
+      "slug": "trailforge-handlebar-roll-bag",
+      "angle": "main (3/4 front view)",
+      "prompt": "Trailforge Handlebar Roll Bag (Stealth Black, Storm Grey), front three-quarter view, Bar-mounted roll bag that keeps the controls clear.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-handlebar-roll-bag/detail.webp",
+      "product": "Trailforge Handlebar Roll Bag",
+      "slug": "trailforge-handlebar-roll-bag",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Trailforge Handlebar Roll Bag. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/trailforge-handlebar-roll-bag/angle.webp",
+      "product": "Trailforge Handlebar Roll Bag",
+      "slug": "trailforge-handlebar-roll-bag",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Trailforge Handlebar Roll Bag, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-auxiliary-spot-light-pair/main.webp",
+      "product": "Driftline Auxiliary Spot Light Pair",
+      "slug": "driftline-auxiliary-spot-light-pair",
+      "angle": "main (3/4 front view)",
+      "prompt": "Driftline Auxiliary Spot Light Pair (Black and Clear), front three-quarter view, 12-volt LED spot lights with a machined aluminium housing.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-auxiliary-spot-light-pair/detail.webp",
+      "product": "Driftline Auxiliary Spot Light Pair",
+      "slug": "driftline-auxiliary-spot-light-pair",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Driftline Auxiliary Spot Light Pair. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-auxiliary-spot-light-pair/angle.webp",
+      "product": "Driftline Auxiliary Spot Light Pair",
+      "slug": "driftline-auxiliary-spot-light-pair",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Driftline Auxiliary Spot Light Pair, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-machined-crash-guard/main.webp",
+      "product": "Driftline Machined Crash Guard",
+      "slug": "driftline-machined-crash-guard",
+      "angle": "main (3/4 front view)",
+      "prompt": "Driftline Machined Crash Guard (Matte Black, Titanium), front three-quarter view, CNC-bent crash bars with replaceable slider pucks.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-machined-crash-guard/detail.webp",
+      "product": "Driftline Machined Crash Guard",
+      "slug": "driftline-machined-crash-guard",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Driftline Machined Crash Guard. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-machined-crash-guard/angle.webp",
+      "product": "Driftline Machined Crash Guard",
+      "slug": "driftline-machined-crash-guard",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Driftline Machined Crash Guard, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-braided-brake-clutch-line-kit/main.webp",
+      "product": "Driftline Braided Brake and Clutch Line Kit",
+      "slug": "driftline-braided-brake-clutch-line-kit",
+      "angle": "main (3/4 front view)",
+      "prompt": "Driftline Braided Brake and Clutch Line Kit (Silver and Red, Silver and Black), front three-quarter view, Stainless braided lines with banjo bolts and a routing guide.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-braided-brake-clutch-line-kit/detail.webp",
+      "product": "Driftline Braided Brake and Clutch Line Kit",
+      "slug": "driftline-braided-brake-clutch-line-kit",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Driftline Braided Brake and Clutch Line Kit. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-braided-brake-clutch-line-kit/angle.webp",
+      "product": "Driftline Braided Brake and Clutch Line Kit",
+      "slug": "driftline-braided-brake-clutch-line-kit",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Driftline Braided Brake and Clutch Line Kit, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-led-tail-turn-kit/main.webp",
+      "product": "Driftline LED Tail and Turn Kit",
+      "slug": "driftline-led-tail-turn-kit",
+      "angle": "main (3/4 front view)",
+      "prompt": "Driftline LED Tail and Turn Kit (Smoked, Clear), front three-quarter view, Plug-and-play smoked LED tail and indicator assembly.. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-led-tail-turn-kit/detail.webp",
+      "product": "Driftline LED Tail and Turn Kit",
+      "slug": "driftline-led-tail-turn-kit",
+      "angle": "detail (material close-up)",
+      "prompt": "Extreme macro close-up of material texture, safety stitching, carbon fibre weave and hardware of Driftline LED Tail and Turn Kit. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    },
+    {
+      "file": "/images/products/driftline-led-tail-turn-kit/angle.webp",
+      "product": "Driftline LED Tail and Turn Kit",
+      "slug": "driftline-led-tail-turn-kit",
+      "angle": "angle (side profile)",
+      "prompt": "Side profile technical angle of Driftline LED Tail and Turn Kit, showcasing shape, aero vents and contour. MASTER STYLE.",
+      "negative": "cartoon, 3D render, CGI, plastic look, over-smooth surface, melted shapes, warped zippers, extra straps, distorted buckles, blurry, fake brand text, deformed parts, extra fingers."
+    }
+  ]
+}

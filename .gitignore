@@ -39,3 +39,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local demo-image backup (Phase 0 audit)
+/_backup-demo-images/
+
+# owner-supplied photo sources (untouched originals, not committed)
+/real-images/
